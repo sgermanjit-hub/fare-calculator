@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: fare-calculator
+
+  config:
+    import: "classpath:fares.yml"

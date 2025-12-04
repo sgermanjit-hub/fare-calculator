@@ -1,0 +1,11 @@
+fares:
+  rules:
+    - from: Stop1
+      to: Stop2
+      price: 3.25
+    - from: Stop2
+      to: Stop3
+      price: 5.50
+    - from: Stop1
+      to: Stop3
+      price: 7.30
